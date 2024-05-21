@@ -1,4 +1,4 @@
-# Code for the paper: "Abide by the Law and Follow the Flow: Conservation Laws for Gradient Flows".
+# Code for the paper: "Keep the momentum: Conservation Laws beyond Euclidean Gradient Flows".
 
 # Get started
 
